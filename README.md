@@ -29,7 +29,7 @@
 - <b>Python</b>
   - [Test](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>  <a href= "SpencerRileyFranco@protonmail.com" [Email]</a>
 
 [<img align="left" alt="JoshMadakor | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
 [<img align="left" alt="JoshMadakor | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/protonmail.svg" />][Email]
