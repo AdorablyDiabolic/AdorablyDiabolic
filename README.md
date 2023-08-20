@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/joshmadakor1">Data Analyst,</a> <a href="https://www.linkedin.com/in/joshmadakor/">Software &</a> <a href="https://www.youtube.com/c/joshmadakor">Network Engineer</a></h1>
+<h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/joshmadakor1">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
 
 <h2>🌱 I’m currently learning & 🔭 working on:</h2>
 
@@ -29,14 +29,13 @@
 - <b>Python</b>
   - [Test](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>  <a href= "SpencerRileyFranco@protonmail.com" [Email]</a>
+<h2> 🤳 Connect with me: <a href= "SpencerRileyFranco@protonmail.com">Email</a></h2>
 
 [<img align="left" alt="JoshMadakor | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
-[<img align="left" alt="JoshMadakor | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/protonmail.svg" />][Email]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Email]: SpencerRileyFranco@protonmail.com
+
 [GitHub]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.threads.net/@s_riley_franco/
 [linkedin]: https://linkedin.com/in/rileyfranco
