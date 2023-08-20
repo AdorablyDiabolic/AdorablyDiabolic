@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/joshmadakor1">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
+<h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
 
 <h2>🌱 I’m currently learning & 🔭 working on:</h2>
 
@@ -36,7 +36,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[GitHub]: https://www.youtube.com/c/joshmadakor
+[GitHub]: https://github.com/AdorablyDiabolic
 [instagram]: https://www.threads.net/@s_riley_franco/
 [linkedin]: https://linkedin.com/in/rileyfranco
 <!--
