@@ -1,23 +1,26 @@
 
 <h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
 
-<h2>🌱 I’m currently learning & 🔭 working on:</h2>
+<P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  
+<h2> 🌱 I’m currently learning & 🔭 working on:</h2>
+  <b>Harvard University’s CS50 Introduction to Computer Science</b>  
+  
+  - [Professional Certificate](https://cs50.harvard.edu/x/2023/)
 
-- <b>Harvard University’s CS50 Introduction to Computer Science</b> - [Professional Certificate](https://cs50.harvard.edu/x/2023/)
 
-
-<!--<h2>👨‍💻 Data Analysis Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
+<h2>👨‍💻 Data Analysis Projects:</h2>
+  
+  - <b>SQL Data Exploration</b>
+    - [Test](https://youtu.be/qfyynHBFOsM)
+  - <b>Data Cleaning in SQL</b>
+    - [Test](https://youtu.be/8rO7ztF4NtU) <b><i>(Test Comment)</b></i>
+  - <b>Correlation in Python, Amazon Web Scraping Using Python</b>
+    - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
+  - <b>Python, Microsoft Excel</b>
+    - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
+  - <b>Tableau Visualization, Microsoft Power BI</b>
+     - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
+  <!-- -->
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -28,6 +31,8 @@
   - [Test](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Test](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
 
 <h2> 🤳 Connect with me: <a href= "SpencerRileyFranco@protonmail.com">Email</a></h2>
 
