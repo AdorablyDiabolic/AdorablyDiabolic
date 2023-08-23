@@ -5,7 +5,7 @@
 <h2> 🌱 I’m currently learning & 🔭 working on:</h2>
   <b>Harvard University’s CS50 Introduction to Computer Science</b>  
   
-  - [Professional Certificate](https://cs50.harvard.edu/x/2023/)
+  - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
