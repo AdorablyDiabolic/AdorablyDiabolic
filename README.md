@@ -12,14 +12,16 @@
   
   - <b>SQL Data Exploration</b>
     - [Test](https://youtu.be/qfyynHBFOsM)
-  - <b>Data Cleaning in SQL</b>
+  - <b>Data Profiling and Cleaning </b>
     - [Test](https://youtu.be/8rO7ztF4NtU) <b><i>(Test Comment)</b></i>
   - <b>Correlation in Python, Amazon Web Scraping Using Python</b>
     - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
-  - <b>Python, Microsoft Excel</b>
+  - <b>Python, Microsoft Excel Data Models</b>
     - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
-  - <b>Tableau Visualization, Microsoft Power BI</b>
+  - <b> Microsoft Power BI, Tableau, and Other Data Visualization Platforms</b>
      - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
+  - <b>Data Models / Data Quality Management /Data governance</b>
+    - [Test](https://youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
   <!-- -->
 
 
