@@ -1,5 +1,4 @@
-
-<h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
+## Hi there! 👋 I'm Riley! <br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
 
 <!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
@@ -49,9 +48,6 @@ My ultimate goal is to merge my military experience with my data science experti
 ### 🌱 I’m currently learning & 🔭 working on:
   <b>Harvard University’s CS50 Introduction to Computer Science</b>
   - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
-
-
-
 
 ### 🤝 Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or discuss anything data-related. I'm always up for a good data-driven conversation!
