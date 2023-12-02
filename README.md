@@ -4,12 +4,6 @@
 ### About Me
 I'm a US OEF veteran with a bachelor's in criminal justice, and I'm currently transitioning my career from a tracker trailer truck driver to a Data Scientist.
 
-<P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  
-<h2> 🌱 I’m currently learning & 🔭 working on:</h2>
-  <b>Harvard University’s CS50 Introduction to Computer Science</b>
-  - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
-
-
 ### 💼 My Skills
 - Data Analysis
 - Python, SQL, Flask, Jinja
@@ -51,6 +45,12 @@ My ultimate goal is to merge my military experience with my data science experti
 - [Project 1 Name](link-to-project-1) - Brief description
 - [Project 2 Name](link-to-project-2) - Brief description
 - [Project 3 Name](link-to-project-3) - Brief description<!-- -->
+<P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  
+<h2> 🌱 I’m currently learning & 🔭 working on:</h2>
+  <b>Harvard University’s CS50 Introduction to Computer Science</b>
+  - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
+
+
 
 
 ### 🤝 Let's Connect
