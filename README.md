@@ -8,10 +8,6 @@ I'm a US OEF veteran with a bachelor's in criminal justice, and I'm currently tr
 <h2> 🌱 I’m currently learning & 🔭 working on:</h2>
   <b>Harvard University’s CS50 Introduction to Computer Science</b>  
   - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
-  
-  - Data Science techniques and tools
-  - Python programming for data analysis
-  - Machine Learning algorithms and applications
 
 ### 💼 My Skills
 - Data Analysis
@@ -40,7 +36,7 @@ My ultimate goal is to merge my military experience with my data science experti
   <!-- -->
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+### 👨‍💻 Software Development Projects:
 
 <!-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Test](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -49,6 +45,12 @@ My ultimate goal is to merge my military experience with my data science experti
 - <b>Python</b>
   - [Python Snake Game - Tkinter Implementation](https://github.com/AdorablyDiabolic/Python-Snake-Game)
   - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage)
+
+<!-- ### 🌐 Check Out My Work
+- [Project 1 Name](link-to-project-1) - Brief description
+- [Project 2 Name](link-to-project-2) - Brief description
+- [Project 3 Name](link-to-project-3) - Brief description<!-- -->
+
 
 ### 🤝 Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or discuss anything data-related. I'm always up for a good data-driven conversation!
