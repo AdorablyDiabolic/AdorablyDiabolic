@@ -46,7 +46,7 @@ My ultimate goal is to merge my military experience with my data science experti
 - [Project 1 Name](link-to-project-1) - Brief description
 - [Project 2 Name](link-to-project-2) - Brief description
 - [Project 3 Name](link-to-project-3) - Brief description<!-- -->
-<h2> 🌱 I’m currently learning & 🔭 working on:</h2>
+### 🌱 I’m currently learning & 🔭 working on:
   <b>Harvard University’s CS50 Introduction to Computer Science</b>
   - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
 
