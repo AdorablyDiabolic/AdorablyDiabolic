@@ -1,12 +1,26 @@
 
 <h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
 
+### About Me
+I'm a US OEF veteran with a bachelor's in criminal justice, and I'm currently transitioning my career from a tracker trailer truck driver to a Data Scientist.
+
 <P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  
 <h2> 🌱 I’m currently learning & 🔭 working on:</h2>
   <b>Harvard University’s CS50 Introduction to Computer Science</b>  
-  
   - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
+  - Data Science techniques and tools
+  - Python programming for data analysis
+  - Machine Learning algorithms and applications
 
+### 💼 My Skills
+- Data Analysis
+- Python, SQL, Flask, Jinja
+- HTML, CSS, JavaScript
+- Machine Learning
+- Statistics and Probability
+
+### 🚀 Goals
+My ultimate goal is to merge my military experience with my data science expertise to drive impactful solutions.
 
 <!-- <h2>👨‍💻 Data Analysis Projects:</h2>
   
@@ -35,6 +49,12 @@
   - [Python Snake Game - Tkinter Implementation](https://github.com/AdorablyDiabolic/Python-Snake-Game)
   - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage)
 
+### 🤝 Let's Connect
+Feel free to reach out if you'd like to collaborate on projects or discuss anything data-related. I'm always up for a good data-driven conversation!
+
+### 📫 How to reach me
+- LinkedIn: [https://linkedin.com/in/rileyfranco]
+- Email: [SpencerRileyFranco@protonmail.com]
 
 
 <h2> 🤳 Connect with me: <a href= "SpencerRileyFranco@protonmail.com">Email</a></h2>
