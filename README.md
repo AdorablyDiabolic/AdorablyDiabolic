@@ -33,6 +33,7 @@
   - [Test](https://github.com/joshmadakor1/EncrypterPOC) -->
 - <b>Python</b>
   - [Python Snake Game - Tkinter Implementation](https://github.com/AdorablyDiabolic/Python-Snake-Game)
+  - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage)
 
 
 
