@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Riley! 👋<br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
 
-<P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  
+<!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
 I'm a US OEF veteran with a bachelor's in criminal justice, and I'm currently transitioning my career from a tracker trailer truck driver to a Data Scientist.
 
