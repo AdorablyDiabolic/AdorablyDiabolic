@@ -8,7 +8,7 @@
   - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
 
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<!-- <h2>👨‍💻 Data Analysis Projects:</h2>
   
   - <b>SQL Data Exploration</b>
     - [Test](https://youtu.be/qfyynHBFOsM)
@@ -27,12 +27,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<!-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Test](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>C Programing Language</b>
-  - [Test](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Test](https://github.com/joshmadakor1/EncrypterPOC) -->
 - <b>Python</b>
-  - [Test](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Snake Game - Tkinter Implementation](https://github.com/AdorablyDiabolic/Python-Snake-Game)
 
 
 
