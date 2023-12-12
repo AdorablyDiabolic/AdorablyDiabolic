@@ -47,7 +47,7 @@ My ultimate goal is to merge my military experience with my data science experti
 - [Project 3 Name](link-to-project-3) - Brief description<!-- -->
 ### 🌱 I’m currently learning & 🔭 working on:
   <b>Harvard University’s CS50 Introduction to Computer Science</b>
-  - [Professional Certificate](https://cs50.harvard.edu/x/2023/) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485)
+  - <b><i>(Completed)</b></i> [Professional Certificate](https://cs50.harvard.edu/x/2023/)  [Certificate](https://cs50.harvard.edu/certificates/d21c208a-c7c2-4c08-b095-a0556a586bbd) <b><i>(Private Repo)</b></i> [126916485](https://github.com/code50/126916485) 
 
 ### 🤝 Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or discuss anything data-related. I'm always up for a good data-driven conversation!
