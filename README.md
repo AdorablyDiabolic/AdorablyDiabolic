@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Riley! <br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a> <a href="https://linkedin.com/in/rileyfranco">Software &</a> <a href="https://linkedin.com/in/rileyfranco">Network Engineer</a></h1> 
+## Hi there! 👋 I'm Riley! <br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a></h1> 
 
 <!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
