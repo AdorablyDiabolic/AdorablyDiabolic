@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Riley! <br/><a href="https://github.com/AdorablyDiabolic">Data Analyst,</a></h1> 
+## Hi there! 👋 I'm Riley! <br/><a href="https://github.com/AdorablyDiabolic"> Aspiring Data & Computer Scientist</a></h1> 
 
 <!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
