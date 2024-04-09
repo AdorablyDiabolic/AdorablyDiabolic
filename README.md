@@ -54,6 +54,7 @@ Feel free to reach out if you'd like to collaborate on projects or discuss anyth
 
 ### 📫 How to reach me
 - LinkedIn: [https://linkedin.com/in/rileyfranco]
+- DataCamp: [https://www.datacamp.com/portfolio/RileyFranco]
 - Email: [SpencerRileyFranco@protonmail.com]
 
 
@@ -62,11 +63,13 @@ Feel free to reach out if you'd like to collaborate on projects or discuss anyth
 [<img align="left" alt="JoshMadakor | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][GitHub]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/datacamp.svg" />][DataCamp]
 
 
 [GitHub]: https://github.com/AdorablyDiabolic
 [instagram]: https://www.threads.net/@s_riley_franco/
 [linkedin]: https://linkedin.com/in/rileyfranco
+[DataCamp]: https://www.datacamp.com/portfolio/RileyFranco
 <!--
 **AdorablyDiabolic/AdorablyDiabolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
