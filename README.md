@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Riley! <br/><a href="https://www.datacamp.com/portfolio/RileyFranco"> Aspiring Data & Computer Scientist</a></h1> 
+## Hi there! 👋 I'm Riley! <br/><a href="https://www.datacamp.com/portfolio/RileyFranco?view=true"> Aspiring Data & Computer Scientist</a></h1> 
 
 <!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
@@ -69,7 +69,7 @@ Feel free to reach out if you'd like to collaborate on projects or discuss anyth
 [GitHub]: https://github.com/AdorablyDiabolic
 [instagram]: https://www.threads.net/@s_riley_franco/
 [linkedin]: https://linkedin.com/in/rileyfranco
-[DataCamp]: https://www.datacamp.com/portfolio/RileyFranco
+[DataCamp]: https://www.datacamp.com/portfolio/RileyFranco?view=true
 <!--
 **AdorablyDiabolic/AdorablyDiabolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
