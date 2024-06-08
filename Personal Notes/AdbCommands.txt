@@ -14,6 +14,8 @@ adb root //restarts adb with root permissions
 
 == Shell
 adb shell    // Open or run commands in a terminal on the host Android device.
+adb shell 
+  ls -la /mnt (List Storage Volumes)
 
 == Devices
 adb usb
@@ -256,6 +258,7 @@ adb shell monkey -p com.myAppPackage -v 10000 -s 100 // monkey tool is generatin
 /mmt/emmc (internal SD Card)
 /mmt/adcard (external/Internal SD Card)
 /mmt/adcard/external_sd (external SD Card)
+/storage/6028-1BFC (External USB Files - Olivers Video)
 
 adb shell ls (list directory contents)
 adb shell ls -s (print size of each file)
