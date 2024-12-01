@@ -39,8 +39,8 @@ My ultimate goal is to merge my military experience with my data science experti
   - [Test](https://github.com/joshmadakor1/EncrypterPOC) -->
 - <b>Python</b>
   - [Python Snake Game - Tkinter Implementation](https://github.com/AdorablyDiabolic/Python-Snake-Game)
-  - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage)
   - [Trucking Data Management System Project](https://github.com/AdorablyDiabolic/Trucking-Data-Management-System)
+  <!-- - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage) -->
 
 <!-- ### 🌐 Check Out My Work
 - [Project 1 Name](link-to-project-1) - Brief description
