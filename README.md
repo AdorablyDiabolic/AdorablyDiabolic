@@ -48,7 +48,7 @@ My ultimate goal is to merge my military experience with my data science experti
 - [Project 3 Name](link-to-project-3) - Brief description<!-- -->
 ### 🌱 I’m currently Self learning & 🔭 working on:
   <b>Artificial Intelligence with Python Projects</b>
-  - [Artificial Intelligence with Python (Projects Repo)](https://cs50.harvard.edu/ai/2024/)
+  - [Artificial Intelligence with Python (Projects Repo)](https://github.com/AdorablyDiabolic/Artificial-Intelligence-with-Python)
 
 ### 🤝 Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or discuss anything data-related. I'm always up for a good data-driven conversation!
