@@ -42,7 +42,7 @@ My ultimate goal is to merge my military experience with my data science experti
   - [Trucking Data Management System Project](https://github.com/AdorablyDiabolic/Trucking-Data-Management-System)
   - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage)
 - <b>ML & AI </b>
-  - [Artificial Intelligence with Python (Projects Repo)](https://github.com/AdorablyDiabolic/Artificial-Intelligence-with-Python)
+  - [CS50's Introduction to Artificial Intelligence with Python (CourseWork Projects)](https://github.com/AdorablyDiabolic/Artificial-Intelligence-with-Python)
 
 <!-- ### 🌐 Check Out My Work
 - [Project 1 Name](link-to-project-1) - Brief description
