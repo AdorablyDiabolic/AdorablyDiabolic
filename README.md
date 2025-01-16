@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Riley! <br/><a href="https://www.datacamp.com/portfolio/RileyFranco?view=true"> Aspiring Data Scientist</a></h1>
 
-Welcome to my data portfolio! Here, I have document a summary of my data projects.
+Welcome to my data portfolio! Here, I have documented a summary of my data projects.
 
 <!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
