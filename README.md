@@ -41,6 +41,9 @@ My ultimate goal is to merge my military experience with my data science experti
   - [Python Snake Game - Tkinter Implementation](https://github.com/AdorablyDiabolic/Python-Snake-Game)
   - [Trucking Data Management System Project](https://github.com/AdorablyDiabolic/Trucking-Data-Management-System)
   - [Simple (Oldschool) Homepage Website - HTML, CSS, & JavaScript Implementation](https://github.com/AdorablyDiabolic/Simple-Homepage)
+- <b>AI and ML Projects & Course Work</b>
+   <b>Artificial Intelligence with Python Projects</b>
+  - [Artificial Intelligence with Python (Projects Repo)](https://github.com/AdorablyDiabolic/Artificial-Intelligence-with-Python)
 
 <!-- ### 🌐 Check Out My Work
 - [Project 1 Name](link-to-project-1) - Brief description
