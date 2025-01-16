@@ -2,7 +2,7 @@
 
 <!-- P align="right"><a href= "SpencerRileyFranco@protonmail.com">SpencerRileyFranco@protonmail.com</a>  -->
 ### About Me
-I'm a United States OEF veteran with a bachelor's in criminal justice, and I'm currently transitioning my career in transportation to a Data Science.
+I'm a United States OEF veteran with a bachelor's in Criminal Justice, and I'm currently transitioning careers into Data Science.
 
 ### 💼 My Skills
 - Data Analysis
