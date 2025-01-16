@@ -51,8 +51,8 @@ My ultimate goal is to merge my military experience with my data science experti
 - [Project 2 Name](link-to-project-2) - Brief description
 - [Project 3 Name](link-to-project-3) - Brief description<!-- -->
 ### 🌱 I’m currently Self learning & 🔭 working on:
-  <b>Artificial Intelligence with Python Projects</b>
-  - [Artificial Intelligence with Python (Projects Repo)](https://github.com/AdorablyDiabolic/Artificial-Intelligence-with-Python)
+  <b>SQL & PostgreSQL</b>
+  - [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/?couponCode=24T1MT11625AUS)
 
 ### 🤝 Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or discuss anything data-related. I'm always up for a good data-driven conversation!
