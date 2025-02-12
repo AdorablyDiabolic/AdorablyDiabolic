@@ -6,12 +6,12 @@ Welcome to my data portfolio! Here, I have documented a summary of my data proje
 ### About Me
 I'm a United States OEF veteran with a bachelor's in Criminal Justice, and I'm currently transitioning careers into Data Science.
 
-### 💼 My Skills
+<!-- ### 💼 My Skills
 - Data Analysis
 - Python, SQL, Flask, Jinja
 - HTML, CSS, JavaScript
 - Machine Learning
-- Statistics and Probability
+- Statistics and Probability -->
 
 ### 🚀 Goals
 My ultimate goal is to merge my military experience with my data science expertise to drive impactful solutions.
